@@ -10,3 +10,13 @@ Creditos
 ========
 
 * basado en el trabajo de [MakerBlock](https://github.com/MakerBlock/TinyCNC-Sketches)
+
+Quehaceres
+==========
+
+* cumplir con mas ordenes de GCODE: apagar motores, movimiento relativo, etc
+
+--
+
+**Donar Bitcoin:** 19qkh5dNVxL58o5hh6hLsK64PwEtEXVHXs
+
